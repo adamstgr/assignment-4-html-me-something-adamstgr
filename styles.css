@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+html {
+    background-color:rgb(14, 39, 27);
+    border: 25px solid rgb(14, 39, 27);
+}
+body {
+    color:chartreuse;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 8px;
+    display: block;
+
+}
+header {
+    margin-bottom: 142px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.center-space {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+footer {
+    padding: 50px 10px 10px 10px;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color:green
+}
