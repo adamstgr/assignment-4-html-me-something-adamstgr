@@ -12,7 +12,7 @@ body {
 header {
     margin-bottom: 142px;
 }
-h1 {
+h1,h2 {
     text-align: center;
     margin-bottom: 25px;
 }
@@ -28,7 +28,7 @@ footer {
     color: red;
 }
 .funParagraph {
-    color:green
+    color:green;
 }
 a {
     color: rgb(4, 63, 4);
