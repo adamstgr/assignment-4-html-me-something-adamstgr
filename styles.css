@@ -1,6 +1,6 @@
 html {
     background-color:rgb(7, 17, 12);
-    border: 25px solid rgb(14, 39, 27);
+    border: 40px solid rgb(14, 39, 27);
 }
 body {
     color:chartreuse;
@@ -33,7 +33,12 @@ footer {
 a {
     color: rgb(4, 63, 4);
     text-decoration: none;
+    padding-bottom: 25px;
 }
 a:hover {
     color:rgb(21, 255, 0);
+}
+.links {
+    text-align: center;
+    padding: 10px 10px;
 }
